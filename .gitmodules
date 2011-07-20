@@ -4,3 +4,6 @@
 [submodule "node/express"]
 	path = node/express
 	url = https://github.com/visionmedia/express.git
+[submodule "rails/fat_free_crm"]
+	path = rails/fat_free_crm
+	url = https://github.com/michaeldv/fat_free_crm.git
