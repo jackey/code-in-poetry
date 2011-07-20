@@ -10,3 +10,51 @@
 [submodule "html5/html5-boilerplate"]
 	path = html5/html5-boilerplate
 	url = https://github.com/paulirish/html5-boilerplate.git
+[submodule "php/wpframework"]
+	path = php/wpframework
+	url = https://github.com/Sitebase/wpframework.git
+[submodule "python/v2ex"]
+	path = python/v2ex
+	url = https://github.com/livid/v2ex.git
+[submodule "js/peersay"]
+	path = js/peersay
+	url = https://github.com/shepherdwind/peersay.git
+[submodule "js/tipsy"]
+	path = js/tipsy
+	url = https://github.com/jaz303/tipsy.git
+[submodule "rails/spree"]
+	path = rails/spree
+	url = https://github.com/spree/spree.git
+[submodule "js/colorbox"]
+	path = js/colorbox
+	url = https://github.com/jackmoore/colorbox.git
+[submodule "node/now"]
+	path = node/now
+	url = https://github.com/Flotype/now.git
+[submodule "js/kissy"]
+	path = js/kissy
+	url = https://github.com/kissyteam/kissy.git
+[submodule "ruby/almost-sinatra"]
+	path = ruby/almost-sinatra
+	url = https://github.com/rkh/almost-sinatra.git
+[submodule "php/cacl_tree"]
+	path = php/cacl_tree
+	url = https://github.com/lzyy/cacl_tree.git
+[submodule "js/Notify"]
+	path = js/Notify
+	url = https://github.com/geedew/Notify.git
+[submodule "js/jsvi"]
+	path = js/jsvi
+	url = https://github.com/acrollet/jsvi.git
+[submodule "ruby/sinatra"]
+	path = ruby/sinatra
+	url = https://github.com/sinatra/sinatra.git
+[submodule "js/jquery-typing"]
+	path = js/jquery-typing
+	url = https://github.com/narfdotpl/jquery-typing.git
+[submodule "rails/web-app-theme"]
+	path = rails/web-app-theme
+	url = https://github.com/pilu/web-app-theme.git
+[submodule "node/mikeal-spider"]
+	path = node/mikeal-spider
+	url = https://github.com/mikeal/spider.git
