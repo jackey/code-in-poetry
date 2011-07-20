@@ -7,3 +7,6 @@
 [submodule "rails/fat_free_crm"]
 	path = rails/fat_free_crm
 	url = https://github.com/michaeldv/fat_free_crm.git
+[submodule "html5/html5-boilerplate"]
+	path = html5/html5-boilerplate
+	url = https://github.com/paulirish/html5-boilerplate.git
