@@ -1,3 +1,6 @@
 [submodule "node/Reston"]
 	path = node/Reston
 	url = https://github.com/maxpert/Reston.git
+[submodule "node/express"]
+	path = node/express
+	url = https://github.com/visionmedia/express.git
