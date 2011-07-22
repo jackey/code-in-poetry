@@ -67,3 +67,6 @@
 [submodule "js/morpheus"]
 	path = js/morpheus
 	url = https://github.com/ded/morpheus.git
+[submodule "js/reqwest"]
+	path = js/reqwest
+	url = https://github.com/ded/reqwest
