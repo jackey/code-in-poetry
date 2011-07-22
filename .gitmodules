@@ -58,3 +58,12 @@
 [submodule "node/mikeal-spider"]
 	path = node/mikeal-spider
 	url = https://github.com/mikeal/spider.git
+[submodule "js/jquery"]
+	path = js/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "js/yui3"]
+	path = js/yui3
+	url = https://github.com/yui/yui3.git
+[submodule "js/morpheus"]
+	path = js/morpheus
+	url = https://github.com/ded/morpheus.git
