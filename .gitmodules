@@ -70,3 +70,24 @@
 [submodule "js/reqwest"]
 	path = js/reqwest
 	url = https://github.com/ded/reqwest
+[submodule "node/traverse"]
+	path = node/traverse
+	url = https://github.com/substack/js-traverse.git
+[submodule "js/appleofiframe"]
+	path = js/appleofiframe
+	url = https://github.com/premasagar/appleofmyiframe.git
+[submodule "js/SyntaxHighlighter"]
+	path = js/SyntaxHighlighter
+	url = https://github.com/alexgorbatchev/SyntaxHighlighter.git
+[submodule "node/secret"]
+	path = node/secret
+	url = https://github.com/dreamerslab/node.secret
+[submodule "js/jquery.queue"]
+	path = js/jquery.queue
+	url = https://github.com/dreamerslab/jquery.queue.git
+[submodule "js/jquery.secret"]
+	path = js/jquery.secret
+	url = https://github.com/dreamerslab/jquery.secret.git
+[submodule "js/jquery.preload"]
+	path = js/jquery.preload
+	url = https://github.com/dreamerslab/jquery.preload.git
