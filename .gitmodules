@@ -91,3 +91,9 @@
 [submodule "js/jquery.preload"]
 	path = js/jquery.preload
 	url = https://github.com/dreamerslab/jquery.preload.git
+[submodule "html5/jo"]
+	path = html5/jo
+	url = https://github.com/davebalmer/jo.git
+[submodule "node/kue"]
+	path = node/kue
+	url = https://github.com/LearnBoost/kue.git
