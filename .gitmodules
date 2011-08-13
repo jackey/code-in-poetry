@@ -97,3 +97,6 @@
 [submodule "node/kue"]
 	path = node/kue
 	url = https://github.com/LearnBoost/kue.git
+[submodule "node/etherpad-lite"]
+	path = node/etherpad-lite
+	url = https://github.com/Pita/etherpad-lite.git
