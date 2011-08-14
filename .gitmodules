@@ -100,3 +100,24 @@
 [submodule "node/etherpad-lite"]
 	path = node/etherpad-lite
 	url = https://github.com/Pita/etherpad-lite.git
+[submodule "erlang/socket.io-erlang"]
+	path = erlang/socket.io-erlang
+	url = https://github.com/yrashk/socket.io-erlang.git
+[submodule "python/socket_io_client"]
+	path = python/socket_io_client
+	url = https://github.com/koto/socket_io_client.git
+[submodule "node/coffee-script"]
+	path = node/coffee-script
+	url = https://github.com/jashkenas/coffee-script.git
+[submodule "js/mustache.js"]
+	path = js/mustache.js
+	url = https://github.com/janl/mustache.js.git
+[submodule "js/underscore"]
+	path = js/underscore
+	url = https://github.com/documentcloud/underscore.git
+[submodule "js/backbone"]
+	path = js/backbone
+	url = https://github.com/documentcloud/backbone.git
+[submodule "js/jquery-mobile"]
+	path = js/jquery-mobile
+	url = https://github.com/jquery/jquery-mobile.git
