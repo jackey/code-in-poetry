@@ -121,3 +121,6 @@
 [submodule "js/jquery-mobile"]
 	path = js/jquery-mobile
 	url = https://github.com/jquery/jquery-mobile.git
+[submodule "js/bxslider"]
+	path = js/bxslider
+	url = https://github.com/wandoledzep/bxslider.git
