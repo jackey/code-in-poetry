@@ -127,3 +127,6 @@
 [submodule "js/jquerytools"]
 	path = js/jquerytools
 	url = https://github.com/jquerytools/jquerytools.git
+[submodule "php/yiiadmin"]
+	path = php/yiiadmin
+	url = https://github.com/firstrow/yiiadmin.git
