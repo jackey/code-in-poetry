@@ -124,3 +124,6 @@
 [submodule "js/bxslider"]
 	path = js/bxslider
 	url = https://github.com/wandoledzep/bxslider.git
+[submodule "js/jquerytools"]
+	path = js/jquerytools
+	url = https://github.com/jquerytools/jquerytools.git
