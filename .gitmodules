@@ -136,3 +136,6 @@
 [submodule "html5/free-admin-templates"]
 	path = html5/free-admin-templates
 	url = https://github.com/pct/free-admin-templates.git
+[submodule "php/Underscore"]
+	path = php/Underscore
+	url = https://github.com/brianhaveri/Underscore.php.git
