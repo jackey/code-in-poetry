@@ -130,3 +130,9 @@
 [submodule "php/yiiadmin"]
 	path = php/yiiadmin
 	url = https://github.com/firstrow/yiiadmin.git
+[submodule "php/4money"]
+	path = php/4money
+	url = https://github.com/pct/4money.git
+[submodule "html5/free-admin-templates"]
+	path = html5/free-admin-templates
+	url = https://github.com/pct/free-admin-templates.git
