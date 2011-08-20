@@ -139,3 +139,9 @@
 [submodule "php/Underscore"]
 	path = php/Underscore
 	url = https://github.com/brianhaveri/Underscore.php.git
+[submodule "js/Slides"]
+	path = js/Slides
+	url = https://github.com/nathansearles/Slides.git
+[submodule "html5/bootstrap"]
+	path = html5/bootstrap
+	url = https://github.com/twitter/bootstrap.git
