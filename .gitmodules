@@ -145,3 +145,6 @@
 [submodule "html5/bootstrap"]
 	path = html5/bootstrap
 	url = https://github.com/twitter/bootstrap.git
+[submodule "php/phunction"]
+	path = php/phunction
+	url = https://github.com/alixaxel/phunction.git
