@@ -148,3 +148,9 @@
 [submodule "php/phunction"]
 	path = php/phunction
 	url = https://github.com/alixaxel/phunction.git
+[submodule "js/recurly-js"]
+	path = js/recurly-js
+	url = https://github.com/recurly/recurly-js.git
+[submodule "js/deck.js"]
+	path = js/deck.js
+	url = https://github.com/imakewebthings/deck.js.git
