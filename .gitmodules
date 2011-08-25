@@ -154,3 +154,12 @@
 [submodule "js/deck.js"]
 	path = js/deck.js
 	url = https://github.com/imakewebthings/deck.js.git
+[submodule "js/Alice"]
+	path = js/Alice
+	url = https://github.com/blackberry/Alice.git
+[submodule "node/batman"]
+	path = node/batman
+	url = https://github.com/Shopify/batman.git
+[submodule "js/chosen"]
+	path = js/chosen
+	url = https://github.com/harvesthq/chosen.git
