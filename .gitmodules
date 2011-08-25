@@ -163,3 +163,6 @@
 [submodule "js/chosen"]
 	path = js/chosen
 	url = https://github.com/harvesthq/chosen.git
+[submodule "php/yiidebugtb"]
+	path = php/yiidebugtb
+	url = https://github.com/cr0t/yiidebugtb.git
