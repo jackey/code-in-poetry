@@ -166,3 +166,6 @@
 [submodule "php/yiidebugtb"]
 	path = php/yiidebugtb
 	url = https://github.com/cr0t/yiidebugtb.git
+[submodule "php/unofficial-yii-framework-mirror"]
+	path = php/unofficial-yii-framework-mirror
+	url = https://github.com/dmtrs/unofficial-yii-framework-mirror.git
