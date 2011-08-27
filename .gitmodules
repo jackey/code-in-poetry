@@ -172,3 +172,6 @@
 [submodule "js/jqzoom"]
 	path = js/jqzoom
 	url = https://github.com/mindprojects/jqzoom.git
+[submodule "js/accounting.js"]
+	path = js/accounting.js
+	url = https://github.com/josscrowcroft/accounting.js
