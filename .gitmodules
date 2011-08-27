@@ -169,3 +169,6 @@
 [submodule "php/unofficial-yii-framework-mirror"]
 	path = php/unofficial-yii-framework-mirror
 	url = https://github.com/dmtrs/unofficial-yii-framework-mirror.git
+[submodule "js/jqzoom"]
+	path = js/jqzoom
+	url = https://github.com/mindprojects/jqzoom.git
