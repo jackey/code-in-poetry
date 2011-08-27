@@ -175,3 +175,6 @@
 [submodule "js/accounting.js"]
 	path = js/accounting.js
 	url = https://github.com/josscrowcroft/accounting.js
+[submodule "js/polljs"]
+	path = js/polljs
+	url = https://github.com/mtrpcic/polljs.git
