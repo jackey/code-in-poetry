@@ -187,3 +187,12 @@
 [submodule "js/jQuery-Placeholder"]
 	path = js/jQuery-Placeholder
 	url = https://github.com/danielstocks/jQuery-Placeholder.git
+[submodule "js/headjs"]
+	path = js/headjs
+	url = https://github.com/headjs/headjs.git
+[submodule "js/jQuery-Collapse"]
+	path = js/jQuery-Collapse
+	url = https://github.com/danielstocks/jQuery-Collapse.git
+[submodule "js/jQuery-TaggingTools"]
+	path = js/jQuery-TaggingTools
+	url = https://github.com/danielstocks/jQuery-TaggingTools.git
