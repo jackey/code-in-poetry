@@ -184,3 +184,6 @@
 [submodule "php/Bonfire"]
 	path = php/Bonfire
 	url = https://github.com/ci-bonfire/Bonfire.git
+[submodule "js/jQuery-Placeholder"]
+	path = js/jQuery-Placeholder
+	url = https://github.com/danielstocks/jQuery-Placeholder.git
