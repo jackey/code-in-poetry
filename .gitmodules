@@ -181,3 +181,6 @@
 [submodule "html5/html5demos"]
 	path = html5/html5demos
 	url = https://github.com/remy/html5demos.git
+[submodule "php/Bonfire"]
+	path = php/Bonfire
+	url = https://github.com/ci-bonfire/Bonfire.git
