@@ -178,3 +178,6 @@
 [submodule "js/polljs"]
 	path = js/polljs
 	url = https://github.com/mtrpcic/polljs.git
+[submodule "html5/html5demos"]
+	path = html5/html5demos
+	url = https://github.com/remy/html5demos.git
