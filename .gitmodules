@@ -196,3 +196,6 @@
 [submodule "js/jQuery-TaggingTools"]
 	path = js/jQuery-TaggingTools
 	url = https://github.com/danielstocks/jQuery-TaggingTools.git
+[submodule "js/phpjs"]
+	path = js/phpjs
+	url = https://github.com/kvz/phpjs.git
