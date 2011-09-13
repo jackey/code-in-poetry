@@ -199,3 +199,6 @@
 [submodule "js/phpjs"]
 	path = js/phpjs
 	url = https://github.com/kvz/phpjs.git
+[submodule "js/todomvc"]
+	path = js/todomvc
+	url = https://github.com/addyosmani/todomvc.git
