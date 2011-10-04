@@ -202,3 +202,6 @@
 [submodule "js/todomvc"]
 	path = js/todomvc
 	url = https://github.com/addyosmani/todomvc.git
+[submodule "js/jquery-google-analytics"]
+	path = js/jquery-google-analytics
+	url = https://github.com/christianhellsten/jquery-google-analytics.git
