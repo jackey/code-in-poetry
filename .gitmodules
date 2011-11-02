@@ -205,3 +205,9 @@
 [submodule "js/jquery-google-analytics"]
 	path = js/jquery-google-analytics
 	url = https://github.com/christianhellsten/jquery-google-analytics.git
+[submodule "js/Flip-jQuery"]
+	path = js/Flip-jQuery
+	url = https://github.com/roncioso/Flip-jQuery
+[submodule "html5/foundation"]
+	path = html5/foundation
+	url = https://github.com/zurb/foundation.git
